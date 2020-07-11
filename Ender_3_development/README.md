@@ -1,4 +1,4 @@
-this is for all thos cool cats and kittens that are looking to tackle watercooling on the ender 3. 
+this is for all those cool cats and kittens that are looking to tackle watercooling on the ender 3. 
 currently develpoment pipeline has the ender 3 being a supported project
 for the a while and the read.md will be updated as project comes closer to being phased out. 
 the current supported mounts are for the titan aqua as it is the most budget friendly offering in terms of watercooling. 
