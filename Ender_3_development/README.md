@@ -7,8 +7,8 @@ if you have any question hit me up on discord Vecna_head_of_doom#1719 or email m
 I am trying to keep this as open source as I can and my hope is by giving people the tools to start watercooling which in turn opens up new ideas and designs
 
 that being said developement is expensive and if you want to help out with the next phase of increasing the waterblock or just want to support my coffee addiction support would be greatly appreciated but never expected. paypal.me/z3ro88
-
-
+<br/>
+<br/>
 
 
 
@@ -17,4 +17,4 @@ there are four people so far I would like to give a shoutout who have made getti
 P3D store-got me back into the 3d printing game...thanks a lot<br/> 
 spacecables-helped me with finalizing my upcoming GB...more on that coming soon<br/>
 Taylor-just gave me a lot of advice some bad some good<br/>
-John of ironmoose- he cut all of the metal protype mount and boy where there a bunch.<br/>
+John of ironmoose- he cut all of the metal prototype mounts and boy where there a bunch.<br/>
