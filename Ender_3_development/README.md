@@ -13,8 +13,8 @@ that being said developement is expensive and if you want to help out with the n
 
 
 
-there are four people so far I would like to give a shoutout who have made getting to this phase possible
-P3D store-got me back into the 3d printing game...thanks a lot 
-spacecables-helped me with finalizing my upcoming GB...more on the coming soon
-Taylor-just gave me a lot of advice some bad some good
-John of ironmoose- he cut all of the metal protype mount and boy where there a bunch. 
+there are four people so far I would like to give a shoutout who have made getting to this phase possible<br/>
+P3D store-got me back into the 3d printing game...thanks a lot<br/> 
+spacecables-helped me with finalizing my upcoming GB...more on the coming soon<br/>
+Taylor-just gave me a lot of advice some bad some good<br/>
+John of ironmoose- he cut all of the metal protype mount and boy where there a bunch.<br/>
